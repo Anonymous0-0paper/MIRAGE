@@ -1,4 +1,4 @@
-# MIRAGE
+# MIRAGE: Multi-Agent Reinforcement Learning for Geo-Distributed Data Stream Operator Placement
 
 
 ## Building Apache Flink from Source
